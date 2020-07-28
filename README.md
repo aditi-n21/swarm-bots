@@ -19,6 +19,21 @@ OBJECTIVE –
 A swarm-bot are mobile robots which are able to self-assemble by connecting with each other to explore, navigate and transport heavy objects on rough terrains which will 
 help in reduction of fuel consumption, accident avoidance.
 
+COMPONENTS: 
+Arduino Uno Board with cables
+Breadboard
+Robot Chassis
+Chaster wheel
+DC Motors 
+Wheels
+433 MHz RF transmitter receiver wireless module
+Jumper fires-
+Male to Female
+Female to Female
+Male to Male
+Ultrasonic sensor
+Bluetooth Module
+
 
  
  

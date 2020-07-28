@@ -86,10 +86,10 @@ void forward()
 } 
 void stops()    
 {
-   digitalWrite(2, LOW); 
-    digitalWrite(3,LOW);
-    digitalWrite(5,LOW); 
+   digitalWrite(3, LOW); 
     digitalWrite(4,LOW);
+    digitalWrite(5,LOW); 
+    digitalWrite(6,LOW);
 }
 void left()    
 {

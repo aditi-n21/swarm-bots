@@ -19,9 +19,9 @@ behaviours resulting in the swarm-level cooperation.
 OBJECTIVE – 
 
 A swarm-bot are mobile robots which are able to self-assemble by connecting with each other to explore, navigate and transport heavy objects on rough terrains which will 
-help in reduction of fuel consumption, accident avoidance.
+help in reduction of fuel consumption, accident avoidance.<br>
 
-COMPONENTS: 
+COMPONENTS: <br>
 Arduino Uno Board with cables
 Breadboard
 Robot Chassis

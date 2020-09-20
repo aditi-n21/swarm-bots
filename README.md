@@ -1,4 +1,4 @@
-# swarm-bots
+# Swarm-bots
 TECHNOLOGY USED – 
 
 Swarm-bots are a collection of mobile robots able to self-assemble and self-organize in order to solve problems that cannot be solved by a single robot using SWARM INTELLIGENCE. 
